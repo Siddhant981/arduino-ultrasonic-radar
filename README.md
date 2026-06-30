@@ -3,6 +3,14 @@
 A real-time Arduino-based radar simulation system that uses an HC-SR04 ultrasonic sensor and servo motor to scan the environment, detect objects, and display distance data in a 180° range.
 This project is built and tested using Tinkercad simulation.
 
+## Project Preview
+
+### Circuit Diagram
+![Circuit](images/circuit.png)
+
+### Demo Video
+ Working simulation demo is available in the repository (see `images/demo.mp4`)
+
 ## Project Objective
 
 To simulate a basic radar system that can:
