@@ -6,7 +6,8 @@ This project is built and tested using Tinkercad simulation.
 ## Project Preview
 
 ### Circuit Diagram
-![Circuit](images/circuit.png)
+<img width="1921" height="1082" alt="Circuit" src="https://github.com/user-attachments/assets/d772de08-095f-4d8a-b3b9-b2dddfde5599" />
+
 
 ### Demo Video
  Working simulation demo is available in the repository (see `images/demo.mp4`)
